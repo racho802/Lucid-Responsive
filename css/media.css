@@ -1,0 +1,137 @@
+@media(max-width:1200px){
+  .phone {
+    position: absolute;
+    bottom: 0px;
+    right: 100px;
+}
+}
+@media(max-width:991px){
+  .navbar-brand img{
+    width: 80px;
+  }
+  .toggler-icon i{
+      font-size: 20px;
+      color: #fff;
+  }
+  .nav-item {
+    padding-left: 0px;
+    margin: 10px 0%;
+}
+.navbar-light .navbar-nav .nav-link.active {
+  display: inline-block;
+}
+.navbar-nav{
+  text-align: center;
+}
+.phone {
+  position: absolute;
+  bottom: 0px;
+  right: 28px;
+}
+.banner_content{
+
+}
+.hg h3 {
+  margin-top: 66px;
+}
+.btn-download {
+  padding: 12px 20px;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.btn-good {
+  padding: 12px 20px;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.footer-div {
+  text-align: center;
+}
+}
+@media(max-width:767px){
+.phone{
+  display: none;
+}
+
+
+.phone_div{
+display: inherit;
+width: 50%;
+margin: auto;
+margin-bottom: 50px;
+margin-top: 20px;
+}
+.banner_content{
+text-align: center;
+}
+.btn-download {
+  padding: 8px 12px;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.btn-good {
+  padding: 8px 12px;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.able-content{
+  margin: 18px 0%;
+}
+.carousel p{
+  text-align: center;
+}
+.introduce{
+  display: flex;
+  justify-content: center;
+}
+.price-section {
+  margin-bottom: 25px;
+}
+.like_what{
+  align-items: center;
+}
+.contact_form {
+  padding: 20px;
+  width: 80%;
+}
+.contact{
+  padding-bottom: 825px;
+}
+.contact_us{
+  margin-bottom: 30px;
+}
+.footer-div ul {
+  display: flex;
+  justify-content: center;
+}
+.footer-div {
+  text-align: center;
+}
+}
+
+@media(max-width:575px){
+
+.button h3 {
+  font-size: 26px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.button-div{
+  text-align: center;
+}
+.contact_form {
+  padding: 20px;
+  width: 80%;
+}
+.price-section {
+  margin-bottom: 35px;
+}
+
+
+
+.contact{
+  padding-bottom: 825px;
+}
+
+
+}
